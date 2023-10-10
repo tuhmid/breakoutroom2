@@ -1,0 +1,8 @@
+Hello! This is a text file I made, and it's very important. For reasons. But I need input on the following lines of "code":
+
+Please input:
+Your name:
+
+Your favorite color:
+
+The airspeed velocity of an unladen swallow:
