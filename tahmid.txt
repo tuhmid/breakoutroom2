@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Adding some content to mess with it later
+Append this text to initial commit
+=======
+Changing the contents of text file from new branch
+>>>>>>> feature-branch
