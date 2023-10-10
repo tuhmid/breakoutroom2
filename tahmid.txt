@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Adding some content to mess with it later
-Append this text to initial commit
+Append this text to first commit
+I'm adding a thing to your code, and I made a change above -Rhys
 =======
 Changing the contents of text file from new branch
 >>>>>>> feature-branch
