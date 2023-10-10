@@ -2,7 +2,10 @@ Hello! This is a text file I made, and it's very important. For reasons. But I n
 
 Please input:
 Your name:
+Rhys
 
 Your favorite color:
+blue-no, yellow!
 
 The airspeed velocity of an unladen swallow:
+What do you mean, an African or a European swallow?
